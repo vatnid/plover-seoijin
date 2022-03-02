@@ -1,0 +1,13 @@
+.DS_Store
+*/.DS_Store
+.cache
+commands.json
+emily-modifiers.json
+emily-symbols.json
+main.json
+plover.cfg
+plover.log
+plugins/
+spanish*.json
+uk_spelling.json
+user.json
