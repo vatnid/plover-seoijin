@@ -145,6 +145,7 @@
 "EUBGS": "investigation",
 "*EUBGS": "{^ix}",
 "S*PL": "symptom",
+"TK-FP": "discharge",
 "TKRAOES": "decrease",
 "TPHRAOES": "increase",
 "TPHRAO*ES": "fleece",
@@ -229,6 +230,15 @@
 "KPWR*PB": "Pamela Youde Nethersole Eastern Hospital",
 "KPWR-PB/HOPT": "Pamela Youde Nethersole Eastern Hospital",
 "TPH*ET/SOEL": "Nethersole",
+
+"OEUPD": "antidepressant",
+"OEUPS": "antipsychotic",
+"HEUP/TEUBG": "hypnotic",
+"PWOEPBZ": "benzo",
+"PWOEUPBZ": "benzo",
+"PWEPBZ/PEUPB": "benzodiazepine",
+"PWOEPBZ/PEUPB": "benzodiazepine",
+"PWOEUPBZ/PEUPB": "benzodiazepine",
 
 "AT/PHOBGS": "atomoxetine",
 "TOPLT/OBGS": "atomoxetine",
