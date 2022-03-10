@@ -62,10 +62,13 @@
 "TKH-D": "ADHD",
 "TKH*D": "attention deficit hyperactivity disorder",
 "APB/REBGS": "anorexia",
+"TPHREBGS/KWRA": "anorexia",
 "PWHREUPL": "bulimia",
 "PWU/HREUPL": "bulimia",
+"TPHAEFRS": "nervosa",
 "TPHEFRS/SKWRA": "nervosa",
 "TPHEFRBS/SKWRA": "nervosa",
+"TPHREBGS/TPHAEFRS": "anorexia nervosa",
 
 "KPUS": "anxious",
 "APB/HE/TKOEPB": "anhedonia",
@@ -331,6 +334,7 @@
 "PWOEPBZ/PEUPB": "benzodiazepine",
 "PWOEUPBZ/PEUPB": "benzodiazepine",
 
+"AG/PHEL": "agomelatine",
 "APL/TREUPT": "amitriptyline",
 "AEUPL/TREUPT": "amitriptyline",
 "AT/PHOBGS": "atomoxetine",
@@ -366,6 +370,8 @@
 "SREFRBGS": "verification",
 "STKREFBGS": "desvenlafaxine",
 "TKES/SREFBGS": "desvenlafaxine",
+"SRORT/OBGS": "vortioxetine",
+"SRORT/KWROBGS": "vortioxetine",
 
 "AEUPLS/PRAOEUD": "amisulpiride",
 "AEUPL/SUL/PRAOEUD": "amisulpiride",
