@@ -58,6 +58,8 @@
 
 "A/PHOEU": "Amoy",
 "AR/TUS": "Artus",
+"PWAULT": "Baltic",
+"PWAULTS": "Baltics",
 "PW*/TPH*/O*": "BN(O)",
 "PWRUPL/PHEU": "Brummie",
 "PWUD/PEFT": "Budapest",
@@ -220,7 +222,8 @@
 "KAT/TEU": "catty",
 "KHUR": "chur",
 "KHROEZ": "cloze",
-"KR*LS": "cls",
+"KR-LS": "cls",
+"KR*LS": "criminals",
 "KUBG": "cuck",
 "K*UZ": "cuz",
 "TKEUS/APL/TKPWAEUT": "disambiguate",
