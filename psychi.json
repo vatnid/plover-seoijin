@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
+=======
+"SAOEU/KAOEU": "psychi",
+>>>>>>> 20acdfd7a714f5175b997609e0a1ccf2d29b7984
 "SKREU": "psychiatry",
 "SKREUFT": "psychiatrist",
 "SKREUBG": "psychiatric",
@@ -50,6 +54,11 @@
 "TKPREF": "depressive",
 "PHA*PBG": "manic",
 "PHA*EUPB": "mania",
+<<<<<<< HEAD
+=======
+"HAOEUP/PHA*PBG": "hypomanic",
+"HAOEUP/PHA*EUPB": "hypomania",
+>>>>>>> 20acdfd7a714f5175b997609e0a1ccf2d29b7984
 "EPD": "episode",
 "EPSD": "episode",
 "EPD/EUBG": "episodic",
@@ -85,6 +94,12 @@
 "KPUS": "anxious",
 "APB/HE/TKOEPB": "anhedonia",
 "APB/HAOE/TKOEPB": "anhedonia",
+<<<<<<< HEAD
+=======
+"AOU/TPOR": "euphoria",
+"AOU/TPORBG": "euphoric",
+"AOU/TPOR/EUBG": "euphoric",
+>>>>>>> 20acdfd7a714f5175b997609e0a1ccf2d29b7984
 "EUPB/SOPL": "insomnia",
 "EUPB/SOPL/ABG": "insomniac",
 "EUPB/SOPL/KWRABG": "insomniac",
@@ -238,6 +253,12 @@
 "SROBGT": "advocate",
 "AD/SROBGT": "advocate",
 "SKO*EL": "console",
+<<<<<<< HEAD
+=======
+"SKO*ELGS": "consolation",
+"SKO*LD": "consolidate",
+"SKO*LD/AEUGS": "consolidation",
+>>>>>>> 20acdfd7a714f5175b997609e0a1ccf2d29b7984
 "TKRAOERT": "deteriorate",
 "TKRAOERGS": "deterioration",
 "SPHRORGS": "exploration",
