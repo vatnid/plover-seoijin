@@ -39,6 +39,8 @@
 "PWUD/PERBT": "Budapest",
 "PWU/TKA": "Buda",
 "PW*UL": "Bulgaria",
+"KAPB/TOE/POP": "Cantopop",
+"KAEPBT/POP": "Cantopop",
 "KREPBT/OS": "CentOS",
 "KHORPB/OEBL": "Chornobyl",
 "KHOR/TPHOEBL": "Chornobyl",
@@ -218,11 +220,6 @@
 "PWRARDZ": "best regards",
 "PWEURB": "bish",
 "PW*EURB": "birb",
-<<<<<<< HEAD
-=======
-"KAPB/TOE/POP": "cantopop",
-"KAEPBT/POP": "cantopop",
->>>>>>> 20acdfd7a714f5175b997609e0a1ccf2d29b7984
 "KAT/TKPWREU": "category",
 "KAT/TEU": "catty",
 "KHUR": "chur",
@@ -266,12 +263,9 @@
 "HREPBG/SKWRAOEU": "lengjai",
 "HROBGT/EUF": "locative",
 "HROPLG": "lomg",
-<<<<<<< HEAD
-=======
 "HROL/OL": "lolol",
 "HROL/OL/OL": "lololol",
 "HROL/OL/OL/OL": "lolololol",
->>>>>>> 20acdfd7a714f5175b997609e0a1ccf2d29b7984
 "HRO*R": "lor",
 "HROUPL": "lmao",
 "KWRO*EPB": "idk",
@@ -319,23 +313,17 @@
 "THAOLT": "thanks a lot",
 "TH-PBG": "thing",
 "TOBT": "to be the",
-<<<<<<< HEAD
 "TREPL": "trem",
-=======
 "THRAEURT": "translator",
 "TREPL": "trem",
 "TROL/OL": "trolol",
 "TROL/OL/OL": "trololol",
->>>>>>> 20acdfd7a714f5175b997609e0a1ccf2d29b7984
 "PWREL": "umbrella",
 "AO*UPB": "Uni",
 "UPB/TPHRAEUBL": "┬─┬ノ( º _ ºノ)",
 "UPTD": "update",
-<<<<<<< HEAD
-=======
 "SRAOEUBT": "vibrate",
 "SRAOEUBGS": "vibration",
->>>>>>> 20acdfd7a714f5175b997609e0a1ccf2d29b7984
 "SROBGT/EUF": "vocative",
 "WAEU/SEUS": "waycis",
 "WHAUP": "what up",
