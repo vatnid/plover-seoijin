@@ -22,6 +22,9 @@
 "SKW-": "{#escape}",
 "SKW*": "{#Caps_Lock}",
 
+"KPAD":"{*-|}",
+"KPA*LD":"{*<}",
+
 "SR-L": "Israel",
 "SR*L": "Israel Lai",
 "SAPLT": "Samuel",
