@@ -70,5 +70,9 @@
 "TAOEU/RAOE": "Tiree",
 "STORPB/WAEU": "Stornoway",
 "STORPB": "Stornoway",
-"WAEUFRL": "Waverley"
+"WAFRL": "Waverley",
+"WAEFRL": "Waverley",
+"WAFR/HREU": "Waverley",
+"WA*EFR/HREU": "Waverley",
+"WA*EF/ER/HREU": "Waverley"
 }

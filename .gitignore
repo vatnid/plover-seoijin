@@ -2,6 +2,8 @@
 */.DS_Store
 *.cache
 *.swp
+*.py
+*.txt
 *-phrasing.json
 commands.json
 emily-modifiers.json
