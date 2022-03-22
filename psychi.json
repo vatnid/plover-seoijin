@@ -125,6 +125,8 @@
 "STKOERBT": "dissociate",
 "STKOERBT/EUF": "dissociative",
 "STKOEGS": "dissociation",
+"PER/SEFRGS": "perseveration",
+"PERS/SRAOERGS": "perseveration",
 
 "SKOPBD": "abscond",
 "SKOPBD/EPBS": "abscondence",
@@ -337,6 +339,14 @@
 
 "HR-LG": "left leg",
 "HROLG": "logical",
+"TPROEPBL": "frontal lobe",
+"TPORL": "temporal",
+"TPOERL": "temporal lobe",
+"TEPL/POERL": "temporal lobe",
+"PRO*EULT": "parietal lobe",
+"PROEURLT": "parietal lobe",
+"PROPBL": "prefrontal",
+"P-FBG": "prefrontal cortex",
 
 "SOERBT": "associate",
 "A/SOERBT": "associate",
@@ -602,6 +612,10 @@
 
 "KHROPB/TKEUPB": "clonidine",
 "SREPBT/HREUPB": "ventolin",
+"KET/PHEUPB": "ketamine",
+"PH*EURGT": "mixture",
+"KPHEURGT": "cough mixture",
+"KPH*EURGT": "cough mixture",
 
 "S*EPBGT": "sennokot",
 "SEPB/KOT": "sennokot",
@@ -612,7 +626,9 @@
 "SPOS/TOER": "suppository",
 "SPOS/TOEUR": "suppository",
 "SPOS/TREU": "suppository",
-"TKUL/KHRABGS/SUP": "Dulcolax suppository",
+"TKUL/KHRABGS/SP": "Dulcolax suppository",
+"TKUL/HRABGS/SPOS": "Dulcolax suppository",
+"TKULG/HRABGS/SP": "Dulcolax suppository",
 "TKULG/HRABGS/SPOS": "Dulcolax suppository",
 "TKUL/KHRABGS/ET": "Dulcolax enteric tab",
 "TKULG/HRABGS/ET": "Dulcolax enteric tab",
