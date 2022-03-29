@@ -635,6 +635,7 @@
 "KPHEURGT": "cough mixture",
 "KPH*EURGT": "cough mixture",
 
+"AEUPBLG/HRABGS": "Agiolax",
 "S*EPBGT": "sennokot",
 "SEPB/KOT": "sennokot",
 "SEPB/TPHA": "Senna",
@@ -650,6 +651,16 @@
 "TKULG/HRABGS/SPOS": "Dulcolax suppository",
 "TKUL/KHRABGS/ET": "Dulcolax enteric tab",
 "TKULG/HRABGS/ET": "Dulcolax enteric tab",
+
+"APL/HROD/PEUPB": "amlodipine",
+"TPHOR/SRAFBG": "Norvasc",
+"PHET/HROL": "metoprolol",
+"PHET/PRO/HROL": "metoprolol",
+"PHET/PROL/OL": "metoprolol",
+"PWOEUT/HROBG": "Betaloc",
+"PWAEU/TA/HROBG": "Betaloc",
+"PROP/HROL": "propranolol",
+"EUPBD/RAL": "Inderal",
 
 "TPHOEBGT": "nocte",
 "PHA*EPB": "mane",
