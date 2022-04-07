@@ -219,6 +219,7 @@
 "PHOD/ERPB/SKWRA": "Moderna",
 "PHO/TKERPB/SKWRA": "Moderna",
 "PHOD/TKERPB/SKWRA": "Moderna",
+"UR/TEU": "URTI",
 
 "PHEL": "medical",
 "TK-G": "diagnose",
@@ -295,6 +296,7 @@
 "TKHAOERPBS": "adherence",
 "SROBGT": "advocate",
 "AD/SROBGT": "advocate",
+"A/S*PL/TEUBG": "asymptomatic",
 "PWAEURPBDZ": "bare hands",
 "KH": "change",
 "KH-G": "changing",
@@ -420,6 +422,8 @@
 "PROEURLT": "parietal lobe",
 "PROPBL": "prefrontal",
 "P-FBG": "prefrontal cortex",
+"ORBL/TPROPBL": "orbitofrontal",
+"ORBT/TPROPBL": "orbitofrontal",
 
 "SOERBT": "associate",
 "A/SOERBT": "associate",
@@ -734,6 +738,7 @@
 "PHR-G": "{^µg}",
 "PH-G": "{^mg}",
 
+"KR-FRPBS": "countertransference",
 "OEG": "ego",
 "OEUG": "ego",
 "SURP": "supper",
