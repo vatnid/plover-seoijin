@@ -1,0 +1,235 @@
+{
+  "name": "GeorgiSJ - English",
+  "background_color": "#d0d0d0",
+  "key_color":"#f0f0f0",
+  "margin": 3.0,
+  "key_width": 20.0,
+  "key_height": 20.0,
+  "keys": [
+    {
+      "name": "S-",
+      "label": "S",
+      "x": 0.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 2.0,
+      "color_pressed": "#5acc8f"
+    },
+    {
+      "name": "T-",
+      "label": "T",
+      "x": 1.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#dfda73"
+    },
+    {
+      "name": "P-",
+      "label": "P",
+      "x": 2.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#d89263"
+    },
+    {
+      "name": "H-",
+      "label": "H",
+      "x": 3.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ce6262"
+    },
+    {
+      "name": "*",
+      "label": "*",
+      "x": 4.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 2.0,
+      "color_pressed": "#999999"
+    },
+    {
+      "name": "*",
+      "label": "*",
+      "x": 6.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 2.0,
+      "color_pressed": "#999999"
+    },
+    {
+      "name": "-F",
+      "label": "F",
+      "x": 7.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ce6262"
+    },
+    {
+      "name": "-P",
+      "label": "P",
+      "x": 8.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#d89263"
+    },
+    {
+      "name": "-L",
+      "label": "L",
+      "x": 9.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#dfda73"
+    },
+    {
+      "name": "-T",
+      "label": "T",
+      "x": 10.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#5acc8f"
+    },
+    {
+      "name": "-D",
+      "label": "D",
+      "x": 11.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#7771c1"
+    },
+    {
+      "name": "K-",
+      "label": "K",
+      "x": 1.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#dfda73"
+    },
+    {
+      "name": "W-",
+      "label": "W",
+      "x": 2.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#d89263"
+    },
+    {
+      "name": "R-",
+      "label": "R",
+      "x": 3.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ce6262"
+    },
+    {
+      "name": "-R",
+      "label": "R",
+      "x": 7.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ce6262"
+    },
+    {
+      "name": "-B",
+      "label": "B",
+      "x": 8.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#d89263"
+    },
+    {
+      "name": "-G",
+      "label": "G",
+      "x": 9.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#dfda73"
+    },
+    {
+      "name": "-S",
+      "label": "S",
+      "x": 10.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#5acc8f"
+    },
+    {
+      "name": "-Z",
+      "label": "Z",
+      "x": 11.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#7771c1"
+    },
+    {
+      "name": "#",
+      "label": "#",
+      "x": 2.0,
+      "y": 3.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#511212"
+    },
+    {
+      "name": "A-",
+      "label": "A",
+      "x": 3.0,
+      "y": 3.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ad5900"
+    },
+    {
+      "name": "O-",
+      "label": "O",
+      "x": 4.0,
+      "y": 3.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ffb363"
+    },
+    {
+      "name": "-E",
+      "label": "E",
+      "x": 6.0,
+      "y": 3.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ffb363"
+    },
+    {
+      "name": "-U",
+      "label": "U",
+      "x": 7.0,
+      "y": 3.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ad5900"
+    },
+    {
+      "name": "#",
+      "label": "#",
+      "x": 8.0,
+      "y": 3.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#511212"
+    }
+  ]
+}
