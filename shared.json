@@ -39,6 +39,7 @@
 "SRATD": "Vatnið",
 "SRAT/TPHEUD": "Vatnið",
 
+"AB/TAOEU": "Abouthai",
 "A/PHOEU": "Amoy",
 "AR/TUS": "Artus",
 "ARS": "ASR",
@@ -149,6 +150,8 @@
 "HRAF/ROF": "Lavrov",
 "HRAEF": "Leif",
 "HRAEFR": "Leifr",
+"HR*EUG": "lihkg",
+"HR*EUG/HR*EUG": "LIHKG",
 "HR*EUT/WAEUPB": "Lithuania",
 "HR*EUT/TPHA": "Lithuania",
 "TKHROPB": "London",
