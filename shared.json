@@ -555,6 +555,8 @@
 "TKUPBD/SEU": "redundancy",
 "RUPBD/APBT": "redundant",
 "TKUPBD/APBT": "redundant",
+"HREUPBG/KWEURB": "relinquish",
+"KWEURB": "relinquish",
 "ROFGS": "resolution",
 "ROFG": "resolving",
 "RE/SREBGT": "resurrect",
