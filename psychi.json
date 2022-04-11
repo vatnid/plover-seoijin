@@ -382,6 +382,7 @@
 "UPB/SROEUD/PWHREU": "unavoidably",
 "TPHABL": "unmanageable",
 
+"SKPAE": "A&E",
 "PERL/PERL/PERL": "PEARL",
 "SH*D": "HSDNM",
 "TK*RT": "DTR",
@@ -481,7 +482,12 @@
 "SHR-PBG": "SLPC",
 "SHR*PBG": "Siu Lam Psychiatric Centre",
 "SAOU/HRAPL/HOPT": "Siu Lam Hospital",
+"T-PL/HOPT": "Tuen Mun Hospital",
+"TAOPB/PHUPB/HOPT": "Tuen Mun Hospital",
+"TAOPB/PHAOPB/HOPT": "Tuen Mun Hospital",
+"POBG/OEU": "Pok Oi",
 "POBG/OEU/HOPT": "Pok Oi Hospital",
+"STW/HOPT": "Tin Shui Wai Hospital",
 "TEUPB/SWEU/WAOEU/HOPT": "Tin Shui Wai Hospital",
 "TEUPB/SWHEU/WAOEU/HOPT": "Tin Shui Wai Hospital",
 "PWH/HOPT": "Prince of Wales Hospital",
@@ -771,5 +777,8 @@
 "SKWRAS/PERS": "Jaspers",
 "KWR*UPBG": "Jung",
 "KHRAOEUPB/KWRAPB": "Kleinian",
+"PHAULDZ": "Maudsley",
+"PHAUDZ/HREU": "Maudsley",
+"TPHAO*EUS": "NICE",
 "WEUPB/KOT": "Winnicott"
 }

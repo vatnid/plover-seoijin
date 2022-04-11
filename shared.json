@@ -275,6 +275,7 @@
 "SEL/HREPB/SKEU": "Zelenskyy",
 "SP*ERBL": "Zpecial",
 
+"TH*UZ": "{^,000}",
 "HA*F": "½",
 "TH*EURD": "⅓",
 "KWA*UR": "¼",
@@ -292,6 +293,10 @@
 "TW*EURDZ": "⅔",
 "THRAURS": "three quarters",
 "THRA*URS": "¾",
+"TKHR-RZ": "${^}",
+"KWR-RZ": "€{^}",
+"H-BGDZ": "HK${^}",
+"USDZ": "US${^}",
 
 "KAUFPL": "a couple of",
 "AOLT": "a lot",
@@ -622,6 +627,8 @@
 "SPH*": "smh",
 "STA*EUBGS": "staycation",
 "STAEU/KAEUGS": "staycation",
+"STO*EUBGS": "studycation",
+"STOEU/KAEUGS": "studycation",
 "SR*ERPBD": "surrender",
 "SUS": "sus",
 "S*US": "suss",
