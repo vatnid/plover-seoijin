@@ -25,6 +25,14 @@
 "KPAD":"{*-|}",
 "KPA*LD":"{*<}",
 
+"H-F": "=retro_everything:','",
+"TK-LG": "=retro_everything::,:",
+"PH-FP": "=retro_everything:\",\"",
+"KPR-RPG": "=retro_everything:~,~",
+"KWR-RBG": "=retro_everything:(,)",
+"SKPR-RPGS": "=retro_everything:~~,~~",
+"TKHR-FRLG": "=retro_everything:||,||",
+
 "OUFLT/TPHES": "Álftanes",
 "AOES/TPOEURD": "Ísafjörður",
 "SR-L": "Israel",
