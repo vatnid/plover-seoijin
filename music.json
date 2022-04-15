@@ -1,7 +1,9 @@
 {
 "HREUG/TEU": "Ligeti",
+"HRUT/SWAFS/KEU": "Lutosławski",
 "KPE/TPHABGS": "Xenakis",
 "KWAR/TAL": "quartal",
+"PEPB/RETS/KEU": "Penderecki",
 "PHAOUFBG/-G": "musicking",
 "PHAOUFBG/PHAEUG": "music-making",
 "PWOR/TKEUPB": "Borodin",
@@ -9,6 +11,8 @@
 "S*EUB": "sib",
 "SAP/TPA": "Psappha",
 "SEUB": "Sibelius",
+"SHOFT": "Shostakovich",
+"SHOS": "Shos",
 "SRAOEURB/TPOEPB": "vibraphone",
 "TRAPBZ/POES": "transpose",
 "TRAPBZ/POEZ": "transpose"
