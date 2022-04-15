@@ -25,7 +25,7 @@
 "KPAD":"{*-|}",
 "KPA*LD":"{*<}",
 "KPA*D": "=retro_everything:{^}{-|},",
-"TK-LSD": "=retro_everything:{^^},"
+"TK-LSD": "=retro_everything:{^^},",
 
 "H-F": "=retro_everything:','",
 "TK-LG": "=retro_everything::,:",
@@ -744,6 +744,7 @@
 "WHAFT": "what the fuck",
 "WHAFLT": "what the actual fuck",
 "WHAUP": "what up",
+"WHAUPS": "what's up",
 "WHABT/EUFPL": "whataboutism",
 "WHATS/AP": "WhatsApp",
 "WAOPS": "woops",
