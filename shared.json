@@ -24,6 +24,8 @@
 
 "KPAD":"{*-|}",
 "KPA*LD":"{*<}",
+"KPA*D": "=retro_everything:{^}{-|},",
+"TK-LSD": "=retro_everything:{^^},"
 
 "H-F": "=retro_everything:','",
 "TK-LG": "=retro_everything::,:",
