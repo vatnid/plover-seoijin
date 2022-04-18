@@ -354,6 +354,7 @@
 "H-BGDZ": "HK${^}",
 "USDZ": "US${^}",
 
+"TKPW*UP": "9up",
 "AEUBT": "a bit",
 "AEUFBT": "a bit of",
 "KAUFPL": "a couple of",
