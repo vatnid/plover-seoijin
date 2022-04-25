@@ -268,6 +268,7 @@
 "S*PL": "symptom",
 "TKPH-GS": "admission",
 "TKPHEUGS": "admission",
+"TKA/PHA": "DAMA",
 "TK-FP": "discharge",
 "TKRAOES": "decrease",
 "TPHRAOES": "increase",
