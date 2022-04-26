@@ -1,12 +1,17 @@
 {
 "EU/TKAPBLG": "IDAGIO",
+"HRAOEUT/PHO/TAOEF": "Leitmotiv",
 "HREUG/TEU": "Ligeti",
 "HRUT/SWAFS/KEU": "Lutosławski",
 "KPE/TPHABGS": "Xenakis",
 "KWAR/TAL": "quartal",
+"O*RBG": "orch",
 "PEPB/RETS/KEU": "Penderecki",
 "PHAOUFBG/-G": "musicking",
 "PHAOUFBG/PHAEUG": "music-making",
+"POL/TPOEUPB": "polyphony",
+"POL/TPOPBG": "polyphonic",
+"PWERG/PWERG": "Berg",
 "PWOR/TKEUPB": "Borodin",
 "PWREUT/-PB": "Britten",
 "S*EUB": "sib",
@@ -15,6 +20,10 @@
 "SHOFT": "Shostakovich",
 "SHOS": "Shos",
 "SRAOEURB/TPOEPB": "vibraphone",
+"SRE/PWERPB": "Webern",
+"TAEBG/PHEUTS": "Takemitsu",
+"TKUPLT": "duplet",
 "TRAPBZ/POES": "transpose",
-"TRAPBZ/POEZ": "transpose"
+"TRAPBZ/POEZ": "transpose",
+"TUPLT": "tuplet"
 }
