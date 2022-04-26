@@ -73,6 +73,9 @@
 "HRAEBL": "labile",
 "HRAOEUL": "labile",
 "HRAO*EUL": "Lyle",
+"HROEPLD": "low mood",
+"PRAEUF": "pervasive",
+"PHROEPLD": "pervasive low mood",
 
 "SHAO*EUPLS": "Alzheimer's",
 "SHAO*EURPLS": "Alzheimer's",
@@ -268,6 +271,7 @@
 "S*PL": "symptom",
 "TKPH-GS": "admission",
 "TKPHEUGS": "admission",
+"TKA/PHA": "DAMA",
 "TK-FP": "discharge",
 "TKRAOES": "decrease",
 "TPHRAOES": "increase",
@@ -308,6 +312,8 @@
 "PRO*ES/-FG": "predisposing factor",
 
 "TKHAOERPBS": "adherence",
+"TKHREFPBS": "adolescence",
+"TKHREFPBT": "adolescent",
 "SROBGT": "advocate",
 "AD/SROBGT": "advocate",
 "A/S*PL/TEUBG": "asymptomatic",
