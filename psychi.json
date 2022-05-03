@@ -164,9 +164,6 @@
 "REF/KWR-DZ": "referential ideas",
 "REF/TKHR-GS": "referential delusion",
 "TKHR-GS/PERPGS": "delusional perception",
-"STKOERBT": "dissociate",
-"STKOERBT/EUF": "dissociative",
-"STKOEGS": "dissociation",
 "PER/SEFRGS": "perseveration",
 "PERS/SRAOERGS": "perseveration",
 "WABGS/TPHREBGS": "waxy flexibility",
@@ -729,6 +726,7 @@
 "KERT/SKWRA": "Concerta",
 
 "KHROPB/TKEUPB": "clonidine",
+"STKUL/TPRAPL": "disulfiram",
 "SREPBT/HREUPB": "ventolin",
 "KET/PHEUPB": "ketamine",
 "PH*EURGT": "mixture",
