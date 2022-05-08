@@ -255,6 +255,7 @@
 "TK*/TK*BGS":"ddx",
 "P-BGS": "prognosis",
 "T-BGS": "treatment",
+"TREUFPBT": "treatment-resistant",
 "PH-GT": "management",
 "AEUBGS": "assessment",
 "PEBGS": "physical examination",
