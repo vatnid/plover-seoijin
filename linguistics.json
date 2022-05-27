@@ -103,6 +103,7 @@
 
 "AB/HRAEU/TEUF": "ablative",
 "AB/HRAEUT/EUF": "ablative",
+"SHRAOUT/EUF": "absolutive",
 "KAOUS/TEUF": "accusative",
 "ABG/KAOUS/TEUF": "accusative",
 "APBLG/TEUF": "adjective",
@@ -112,6 +113,7 @@
 "TKAEUT/EUF": "dative",
 "TKHREBGT": "dialect",
 "TKEURBGS": "dictionary",
+"ERG/TEUF": "ergative",
 "EUD/KWRO/HREBGT": "idiolect",
 "EUD/KWROE/HREBGT": "idiolect",
 "EUR/RAE/HREUS": "irrealis",
