@@ -8,10 +8,14 @@
 commands.json
 emily-modifiers.json
 emily-symbols.json
+georgi.json
 main.json
+movement.json
 plover.cfg
 plover.log
 plugins/
+rh-numpad.json
 spanish*.json
 uk_spelling.json
 user.json
+vim.json

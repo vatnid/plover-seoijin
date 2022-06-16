@@ -1,0 +1,9 @@
+{
+"KR-D": "cd",
+"KPH*EUT": "commit -m",
+"-LS": "ls",
+"*LS": "{^less}",
+"TKPWEUT": "git",
+"PW-D": "pwd",
+"PEU": "py"
+}
