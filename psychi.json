@@ -334,6 +334,7 @@
 "PRO*EFGS": "predisposing factor",
 "PRO*ES/-FG": "predisposing factor",
 
+"KAOT": "acute",
 "TKPHEU": "admit",
 "TKHAOERPBS": "adherence",
 "TKHREFPBS": "adolescence",
@@ -911,6 +912,9 @@
 "WEUPB/KOT": "Winnicott",
 
 "KHRA*PLS/KWRA": "eclampsia",
+"EP/HREPT": "{epilepto^}",
+"HRAEPS/SKWREPB/EUBG": "epileptogenic",
+"EP/HREPT/SKWREPB/EUBG": "epileptogenic",
 "PRE/KHRA*PLS": "preeclampsia",
 "PHRA*PLS": "preeclampsia",
 "PER/PARPL": "peripartum",
