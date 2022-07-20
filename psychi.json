@@ -618,6 +618,7 @@
 "KPWR-PB/HOPT": "Pamela Youde Nethersole Eastern Hospital",
 "TPH*ET/SOEL": "Nethersole",
 
+"TKREPB": "adrenaline",
 "OEUFBG": "anticonvulsant",
 "KWUL/SAPBT": "convulsant",
 "OEUPD": "antidepressant",
@@ -641,7 +642,12 @@
 "PHAEURBLZ": "mood stabilizer",
 "SPHAEUBL": "mood stabilizer",
 "TPHOES/PWOE": "nocebo",
+"TPHOR/TKREPB": "noradrenaline",
 "PHRAEUS/PWOE": "placebo",
+"SROT": "serotonin",
+"STPHREU": "SNRI",
+"STPHR*EU": "SNRI",
+"SR*EU": "SSRI",
 
 "AG/PHEL": "agomelatine",
 "APL/TREUPT": "amitriptyline",
