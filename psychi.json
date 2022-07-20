@@ -336,12 +336,15 @@
 
 "KAOT": "acute",
 "TKPHEU": "admit",
+"SKWRUPBGT": "adjunct",
 "TKHAOERPBS": "adherence",
 "TKHREFPBS": "adolescence",
 "TKHREFPBT": "adolescent",
 "SROBGT": "advocate",
 "AD/SROBGT": "advocate",
 "A/S*PL/TEUBG": "asymptomatic",
+"AUPLGS": "augmentation",
+"AUPLT/AEUGS": "augmentation",
 "SROEU": "avoid",
 "SROEUBL": "avoidable",
 "SROEUBL/HREU": "avoidably",
@@ -386,6 +389,8 @@
 "HOFLT": "hostel",
 "HO*FLT": "hostile",
 "SPWHRAOEUPB": "incline",
+"TKAOUFD": "induced",
+"TKAOUS/-D": "induced",
 "SKWR*BGS": "injection",
 "SPWRAUFRL": "intramuscular",
 "SPWRA*URL": "intramuscular",
@@ -428,6 +433,7 @@
 "STPHEUFBGS": "significance",
 "STRERS": "stressor",
 "STROERS": "stressor",
+"SPHREPLGS": "supplementation",
 "SPHAOEUS": "surmise",
 "SPWAOUS": "substance abuse",
 "TEURT": "titrate",
@@ -922,5 +928,5 @@
 "POEFT/PARPL": "postpartum",
 "PO*EFT/PARPL": "postpartum",
 "PRE/PARPL": "prepartum",
-"": ""
+"THROEUFPL": "thyroidism"
 }
