@@ -27,8 +27,8 @@
 "KPW-D":"{*!}",
 "-TD": "{#backspace}",
 "-SZ": "{#space}",
-"-TSDZ": "{#return}",
-"SR-R": "{#shift(return)}",
+"-TSDZ": "{#return}{^}",
+"SR-R": "{#shift(return)}{^}",
 "STP-": "{#tab}",
 "SKW-": "{#escape}",
 
