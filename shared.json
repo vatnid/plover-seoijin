@@ -28,7 +28,7 @@
 "-TD": "{#backspace}",
 "-SZ": "{#space}",
 "-TSDZ": "{#return}",
-"S-TSDZ": "{#shift{return}}",
+"SR-R": "{#shift(return)}",
 "STP-": "{#tab}",
 "SKW-": "{#escape}",
 
