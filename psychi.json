@@ -983,6 +983,8 @@
 "EP/HREPT": "{epilepto^}",
 "HRAEPS/SKWREPB/EUBG": "epileptogenic",
 "EP/HREPT/SKWREPB/EUBG": "epileptogenic",
+"PWEUL/K-L": "umbilical",
+"PWEUL/KUS": "umbilicus",
 "PRE/KHRA*PLS": "preeclampsia",
 "PHRA*PLS": "preeclampsia",
 "PER/PARPL": "peripartum",
