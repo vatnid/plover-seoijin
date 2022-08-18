@@ -693,6 +693,17 @@
 "KPWR-PB/HOPT": "Pamela Youde Nethersole Eastern Hospital",
 "TPH*ET/SOEL": "Nethersole",
 
+"PW-PS": "BPS",
+"PW*PS": "bought place scheme",
+"SKPABG": "C&A",
+"SKPA*BG": "care and attention",
+"SHR-FP": "LSCH",
+"SHR*FP": "long stay care home",
+"HAO*": "OAH",
+"HAO*/HAO*": "old age home",
+"WHOUS": "HWH",
+"WHO*US": "halfway house",
+
 "TKREPB": "adrenaline",
 "OEUFBG": "anticonvulsant",
 "KWUL/SAPBT": "convulsant",
