@@ -278,9 +278,10 @@
 "TKAEGS": "ideation",
 "TAEPLT": "attempt",
 "OD*/OD*": "overdose",
-"OEFRDZ": "overdose",
+"O*EDZ": "overdose",
 "TKO*/TKO*": "drug overdose",
-"TKROEFRDZ": "drug overdose",
+"TKROEDZ": "drug overdose",
+"TKRO*EDZ": "drug overdose",
 
 "PWABGT": "bacteria",
 "PWABLGT": "bacterial",
