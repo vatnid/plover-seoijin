@@ -1454,6 +1454,8 @@
 "HREULGD": "likelihood",
 "HR*EUBGD": "liquid",
 "HR*EUBGD/KWREU": "liquidy",
+"HREUS": "list",
+"HR*EUS": "{Lys-^}",
 "HROEURL": "literally",
 "HROEURLT": "literally",
 "HR*PL": "lm",
