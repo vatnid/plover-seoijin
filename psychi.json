@@ -365,6 +365,10 @@
 "TKPHEUGS": "admission",
 "TKA/PHA": "DAMA",
 "TK-FP": "discharge",
+"TPHROUPD": "followed up",
+"TPHRO*UPD": "followed-up",
+"TPHROUPG": "following up",
+"TPHRO*UPG": "following-up",
 "TPHROUP": "follow up",
 "TPHRO*UP": "follow-up",
 
