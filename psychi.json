@@ -896,7 +896,7 @@
 
 "AL/SHRA*PL": "alprazolam",
 "ARPL/SHRA*PL": "alprazolam",
-"KPAPBS": "Xanax",
+"KPA*PBGS": "Xanax",
 "KPA/TPHABGS": "Xanax",
 "PWROPL/SPA*PL": "bromazepam",
 "PWROEPL/SPA*PL": "bromazepam",
@@ -913,6 +913,7 @@
 "PHAOEUD/SHRA*PL": "midazolam",
 "TPHAOEURT/SPA*PL": "nitrazepam",
 "PHOG/TKOPB": "Mogadon",
+"PHOEG/TKOPB": "Mogadon",
 "HROR/SPA*PL": "lorazepam",
 "HRAOR/SPA*PKL": "lorazepam",
 "AT/SRAPB": "Ativan",
