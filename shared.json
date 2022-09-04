@@ -1117,6 +1117,8 @@
 "TPHUPB/SHAEUGS": "enunciation",
 "EPG": "epic",
 "EP/TPAEPB": "epiphany",
+"ER": "{^er}",
+"*ER": "{er^}",
 "AOER/KWRED": "ereyesterday",
 "*ERPB": "{^er than}",
 "AOEF": "eve",
