@@ -8,10 +8,10 @@
 
 "PWH*": "{&bh}",
 "PWH*P": "{&Bh}",
-"TKH*": "{&dh}",
-"TKH*P": "{&Dh}",
 "STKPWH*": "{&zh}",
 "STKPWH*P": "{&Zh}",
+"TKPWH*": "{&ng}",
+"TKPWH*P": "{&Ng}",
 
 "A*F": "a",
 "PW*F": "b",
