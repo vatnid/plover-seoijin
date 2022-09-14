@@ -350,6 +350,8 @@
 "TK*/TK*BGS":"ddx",
 "H-BGS": "history",
 "P-BGS": "prognosis",
+"P-BGS/EUBG": "prognostic",
+"P-BGS/TEUBG": "prognostic",
 "T-BGS": "treatment",
 "TREUFPBS": "treatment resistance",
 "TREUFPBT": "treatment-resistant",
