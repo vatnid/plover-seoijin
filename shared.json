@@ -879,6 +879,8 @@
 "KAUPB/SEUFT": "consist",
 "KAUPB/STELGS": "constellation",
 "KOPB/STELGS": "constellation",
+"KAUPBS/TAOUPBS": "constituency",
+"KAUPBS/TAOUPB/SEU": "constituency",
 "KPHRAEUT": "contemplate",
 "KPHRA*EUGS": "contemplation",
 "T-PBGS": "continuation",
