@@ -11,7 +11,9 @@
 "STKPWH*": "{&zh}",
 "STKPWH*P": "{&Zh}",
 "TKPWH*": "{&ng}",
+"KPR*": "{&ng}",
 "TKPWH*P": "{&Ng}",
+"KPR*P": "{&Ng}",
 
 "A*F": "a",
 "PW*F": "b",
