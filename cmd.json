@@ -1,5 +1,5 @@
 {
-"KR-D": "cd",
+"K-D": "cd",
 "KPH*EUT": "commit -m",
 "-LS": "ls",
 "*LS": "{^less}",
