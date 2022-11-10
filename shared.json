@@ -28,6 +28,7 @@
 "S-PD":"{*?}",
 "TK-FPS":"{*!}",
 "KPW-D":"{*!}",
+"T-LT": "{MODE:TITLE}",
 "-TD": "{#backspace}",
 "-SZ": "{#space}",
 "-TSDZ": "{#return}{^}",
