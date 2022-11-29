@@ -2135,6 +2135,8 @@
 "O*PBT": "on9",
 "O*PBT/9": "on99",
 "O*PBT/*T": "on99",
+"SKPOFPB": "on and off",
+"SKPO*FPB": "on-and-off",
 "WUFRL": "once and for all",
 "STPRAUL": "once and for all",
 "SWHAOEUL": "once in a while",
