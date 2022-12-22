@@ -526,6 +526,8 @@
 "TPHABL": "unmanageable",
 "TPHRARBG/-BL": "unremarkable",
 "TPHRARBL": "unremarkable",
+"SRORLT": "voluntary",
+"SHRORLT": "voluntarily",
 "KWR-B": "younger brother",
 "KWR-FR": "younger sister",
 "WROUPBD": "ward round",
@@ -1178,6 +1180,7 @@
 "SO*E/KOR": "Zocor",
 "TRAPB/KPAPL/EUBG": "tranexamic",
 "SREPBT/HREUPB": "ventolin",
+"SROLT/REPB": "Voltaren",
 
 "25S": "2.5",
 "357GS": "3.75",
