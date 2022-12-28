@@ -131,5 +131,9 @@
 "WAR/WEUBG": "Warwick",
 "WHEUT/WO*RT": "Whitworth",
 "WEUPLS/HROE": "Wilmslow",
-"WEUG/TOPB": "Withington"
+"WEUG/TOPB": "Withington",
+"WAOFT/ER": "Worcester",
+"WAOFT/*ER": "Worcester",
+"WAOFT/ER/SHEUR": "Worcestershire",
+"WAO*FT/ER": "Worcestershire"
 }
