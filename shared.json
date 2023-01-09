@@ -34,6 +34,9 @@
 "-SZ": "{#space}",
 "-TSDZ": "{#return}{^}",
 "SR-R": "{#shift(return)}{^}",
+"KPRAR": "{^~|\n^}{-|}",
+"R-RS": "{^~|\n^}{-|}",
+"SR-RS": "{#shift(return)}{^}{-|}",
 "STP-": "{#tab}",
 "SKW-": "{#escape}",
 
