@@ -1,4 +1,5 @@
 {
+"STOBG/HOUFPB": "Stockhausen",
 "SPERBGT/PHO*FR/HR-LG": "spectromorphological",
 "SPERBGT/PHOFR/OLG": "spectromorphology",
 "SPERBGT/PHOR/TPOLG": "spectromorphology",
@@ -23,6 +24,7 @@
 "TAP/KWROE/HRA": "Tapiola",
 "TUPLT": "tuplet",
 "KPE/TPHABGS": "Xenakis",
+"KPUS/TEUPB": "Kapustin",
 "KWAR/TAL": "quartal",
 "KHREZ/PHER": "klezmer",
 "KEFRB/TOEUR": "conservatoire",
@@ -49,8 +51,11 @@
 "RE/SAOEULS": "recitals",
 "REPBLG/STRAL": "registral",
 "REPBLGS/TRAL": "registral",
+"A/TK*ES": "Adès",
 "A/KOPLT": "accompaniment",
 "A/PEUFT": "accompanist",
+"AD/TK*ES": "Adès",
 "O*RBG": "orch",
-"EU/TKAPBLG": "IDAGIO"
+"EU/TKAPBLG": "IDAGIO",
+"UPB/SUBG/KHEUPB": "Unsuk Chin"
 }
