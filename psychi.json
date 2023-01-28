@@ -333,7 +333,6 @@
 "PWABLGT": "bacterial",
 "PWABGT/-L": "bacterial",
 "PWABGT/A*L": "bacterial",
-"TPHEBGS": "infection",
 "SAOEU/TPHO*E": "{Sino-^}",
 "SAOEU/TPHOE/SRABG": "Sinovac",
 "SAOEUPB/SRABG": "Sinovac",
@@ -388,7 +387,9 @@
 "S*PL/TOLG": "symptomatology",
 "SEUPL/TOPL/TOLG": "symptomatology",
 "T-BGS": "treatment",
+"TRAOPBS": "treatment resistance",
 "TREUFPBS": "treatment resistance",
+"TRAOPBT": "treatment-resistant",
 "TREUFPBT": "treatment-resistant",
 
 "PW-FRD": "before due",
