@@ -3545,6 +3545,7 @@
 "WAERBGS": "wah",
 "WAUPBT": "want to",
 "WAUPBTD": "wanted to",
+"WA*PBTD": "wanted to",
 "WAUPBTS": "wants to",
 "WA*PBTS": "wants to",
 "WALGS": "was like",
