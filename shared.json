@@ -2896,6 +2896,8 @@
 "RAEBGS": "rehabilitation",
 "RAEBLGS": "rehabilitation",
 "RAEBT/EUF": "rehabilitative",
+"RELD": "related",
+"R*ELD": "{^-related}",
 "REL": "relative",
 "R*EL": "relatively",
 "R-LGS": "religion",
