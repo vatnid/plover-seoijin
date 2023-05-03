@@ -408,6 +408,8 @@
 
 "PW-FRD": "before due",
 "OEFRD": "overdue",
+"TKPWELT": "GPH",
+"TKPW*ELT": "good past health",
 "PHOEULT": "mental health",
 "PHOEULTS": "mental health service",
 "PHOEULT/-S": "mental health service",
