@@ -607,6 +607,8 @@
 "TK-FPL": "DSM-5",
 "TK-FPL/TK-FPL": "DSM-5-TR",
 "TK-FPL/TR": "DSM-5-TR",
+"TKPW-BGS": "GCS",
+"TKPW*BGS": "Glasgow Coma Scale",
 "EUBGD": "ICD-10",
 "EUBGD/EUBGD": "ICD-11",
 "SPHEPL": "MMSE",
