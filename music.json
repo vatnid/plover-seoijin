@@ -1,4 +1,6 @@
 {
+"STRAFPB/SKEU": "Stravinsky",
+"STRAFPBS/KEU": "Stravinsky",
 "STOBG/HOUFPB": "Stockhausen",
 "SPERBGT/PHO*FR/HR-LG": "spectromorphological",
 "SPERBGT/PHOFR/OLG": "spectromorphology",
@@ -12,7 +14,7 @@
 "SAP/TPA": "Psappha",
 "SOPB/KHREU": "sonically",
 "S*EUB": "sib",
-"SEUB": "Sibelius",
+"SEUBS": "Sibelius",
 "TKPWHR*EUS": "glissando",
 "TKPWHREUS": "gliss",
 "TKEUT": "duet",
@@ -62,6 +64,7 @@
 "A/TK*ES": "Adès",
 "A/KOPLT": "accompaniment",
 "A/PEUFT": "accompanist",
+"AOEUFS": "Ives",
 "AD/TK*ES": "Adès",
 "O*RBG": "orch",
 "E/TAOUD": "étude",
