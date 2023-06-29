@@ -159,12 +159,15 @@
 "APBLG/TEUF": "adjective",
 "AL/HRAEU/TEUF": "allative",
 "AL/HRAEUT/EUF": "allative",
+"KWRA*ERL": "areal",
 "TKAEU/TEUF": "dative",
 "TKAEUT/EUF": "dative",
 "TKHREPBGS": "declension",
 "TKAOEU/KREUT/EUBGS": "diacritics",
 "TKHREBGT": "dialect",
 "TKEURBGS": "dictionary",
+"TK*EU/TKPWHROS/KWRA": "diglossia",
+"TK*EU/TKPWHROS/EUBG": "diglossic",
 "ERG/TEUF": "ergative",
 "EUD/KWRO/HREBGT": "idiolect",
 "EUD/KWROE/HREBGT": "idiolect",
@@ -204,5 +207,6 @@
 "RAE/HREUS": "realis",
 "RAO*EUPL": "rime",
 "SAPBD/HEU": "sandhi",
+"SRE*RPB": "vernacular",
 "SROBGT/EUF": "vocative"
 }
