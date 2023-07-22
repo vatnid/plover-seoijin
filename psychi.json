@@ -745,6 +745,8 @@
 "TK*PL/TK*PL": "diabetes mellitus",
 "TKAOEU/RAOE": "diarrhoea",
 "KHRA*PLS/KWRA": "eclampsia",
+"HRAEPT/EUBG": "epileptic",
+"HRAEPT/KUS": "epilepticus",
 "EP/HREPT": "{epilepto^}",
 "HRAEPT": "{epilepto^}",
 "EP/HREPT/TPORPL": "epileptiform",
