@@ -160,6 +160,7 @@
 
 "PWHAPBS": "abnormal perceptions and beliefs",
 "PWHA*PBS": "abnormal perceptions or beliefs",
+"SKWRO*RD": "adjustment disorder",
 "A/HREBGS": "{alexi^}",
 "A/HREBGS/THAOEUPL": "alexithymia",
 "A/HREBGS/THAOEUPL/KWRA": "alexithymia",
@@ -190,6 +191,7 @@
 "TKHR-GS": "delusion",
 "TKHR-LGS": "delusional",
 "TKHR-GS/A*L": "delusional",
+"TKHRO*RD": "delusional disorder",
 "TKHR-GS/PERPGS": "delusional perception",
 "TKR-RG": "drug allergy",
 "TKREUPBD": "drug-induced",
@@ -623,7 +625,7 @@
 "ABD/SOFT": "abdomen soft",
 "TPHERPBD": "non-tender",
 "TK-RT": "DTR",
-"TPHOELGS": "no focal neurological abnormalities",
+"TPHO*LGS": "no focal neurological abnormalities",
 "EP/SE": "EPSE",
 "*EUFPL": "ICH/SOL/MLS",
 "EUP/PHOE": "IPMOE",
@@ -733,7 +735,6 @@
 "T-PLS": "TMS",
 "T*PLS": "transcranial magnetic stimulation",
 
-
 "A/TKPWRAPB/STOEUS": "agranulocytosis",
 "A/TKPWRAPBL/STOEUS": "agranulocytosis",
 "A/TKPWRAPB/STO*EUS": "agranulocytosis",
@@ -805,14 +806,9 @@
 "ORBL/TPROPBL": "orbitofrontal",
 "ORBT/TPROPBL": "orbitofrontal",
 
-"SOERBT": "associate",
-"A/SOERBT": "associate",
 "KOS": "COS",
 "KUPBLT": "consultant",
 "SKUPBLT": "consultant",
-"SKULT/APBLT": "consultant",
-"KOPB/SUL/TAPBT": "consultant",
-"KOPB/SULT/APBT": "consultant",
 "KPHO*": "CMO",
 "TKPHO*": "DMO",
 "TK-R": "Dr.{-|}",
