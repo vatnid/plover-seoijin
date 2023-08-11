@@ -735,6 +735,9 @@
 "T-PLS": "TMS",
 "T*PLS": "transcranial magnetic stimulation",
 
+"ABG/HRAEURB": "achalasia",
+"ABG/HRAEUS/KWRA": "achalasia",
+"ABG/HRAEUZ/KWRA": "achalasia",
 "A/TKPWRAPB/STOEUS": "agranulocytosis",
 "A/TKPWRAPBL/STOEUS": "agranulocytosis",
 "A/TKPWRAPB/STO*EUS": "agranulocytosis",
