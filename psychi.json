@@ -1386,6 +1386,9 @@
 "TRAOEUBGT": "Triact",
 "TRAOEU/KWRABGT": "Triact",
 
+"STHRAOEPB": "acetylcysteine",
+"AS/TAOEUL/SEUS/TAOEPB": "acetylcysteine",
+"TPHRAOUPL/SEUL": "Fluimucil",
 "TPH*LGS": "analgesia",
 "TPH-LGS": "analgesic",
 "APBL/SKWRAOEFBG": "analgesic",
@@ -1494,6 +1497,7 @@
 "KW4-BG": "Q4wk",
 "KW5BG": "Q5wk",
 "12KW-BG": "Q12wk",
+"K3W-78": "Q3months",
 "T*DZ": "tds",
 "T*DZ/T*DZ": "TDS",
 "PHR*G": "microgram",
