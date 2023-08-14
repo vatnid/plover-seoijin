@@ -1330,6 +1330,7 @@
 "STKPRAOF": "disapprove",
 "STKARPL": "disarm",
 "STKARPLT": "disarmament",
+"STKARPL/*PLT": "disarmament",
 "STKRAEU": "disarray",
 "STKA/RAEU": "disarray",
 "STKPHEBL": "disassemble",
