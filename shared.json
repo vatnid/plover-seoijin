@@ -2274,6 +2274,9 @@
 "TPH-FRPLT": "informant",
 "TPHROPBT": "in front",
 "TPHROFPBT": "in front of",
+"EUPB/TPAOURT": "infuriate",
+"EUPB/TPAOURD": "infuriated",
+"EUPB/TPAOURTS": "infuriates",
 "TPH*EPBL": "in general",
 "TPHA*EUL": "inhale",
 "TPHAL/AEUGS": "inhalation",
@@ -3718,5 +3721,6 @@
 "KWRO*EUPBG": "yoink",
 "KWRAOPB": "yuen",
 "KWRUP/KWREU": "yuppy",
+"S*EB/RA": "zebra",
 "TKPWO*U": ":0)"
 }
