@@ -876,6 +876,11 @@
 "THAERPS": "therapist",
 "THA*ERPS": "therapist",
 
+"PH-BS": "MBBS",
+"PH-FPB": "MBChB",
+"PH-RS/SAOEUBG": "MRCPsych",
+"TP-RS/SAOEUBG": "FRCPsych",
+
 "HOPT/THORT": "Hospital Authority",
 "KAFL/PAEBG": "Castle Peak",
 "KAFL/PAEBG/HOPT": "Castle Peak Hospital",
