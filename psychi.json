@@ -687,6 +687,8 @@
 "*EFPG": "electrocardiogram",
 "AOEG": "EEG",
 "AO*EG": "electroencephalogram",
+"*ET/PAR/SAL": "Eth/Par/Sal",
+"*ET/PAR/SA*L": "ethanol/paracetamol/salicylate",
 "TP-G": "FG",
 "TP*U": "FU",
 "TP-L": "FL",
