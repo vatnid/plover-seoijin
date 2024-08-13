@@ -6,6 +6,7 @@
 "PHROBGT":"{PLOVER:QUIT}",
 "KA*PD":"{*-|}",
 "KPAD":"{*-|}",
+"KPADZ": "{*-|}{}{-|}",
 "KA*PS":"{MODE:CAPS}",
 "K-PZ":"{MODE:CAPS}",
 "T-LT": "{MODE:TITLE}",
