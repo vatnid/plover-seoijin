@@ -1628,5 +1628,10 @@
 "TPHAO*EUS": "NICE",
 "UTD": "uptodate",
 "*UTD": "UpToDate",
-"WEUPB/KOT": "Winnicott"
+"WEUPB/KOT": "Winnicott",
+
+"TKPWHAEPS": "eGeMAPS",
+"TKPWHA*EPS": "extended Geneva Minimalistic Acoustic Parameter Set",
+"PH*FBG": "MFCC",
+"PH*FBG/PH*FBG": "Mel-Frequency Cepstral Coefficient"
 }
