@@ -720,6 +720,7 @@
 "TP-L": "FL",
 "TPOELT": "folate",
 "KPHOEPBGS": "for CMO attention",
+"KPHO*EPBGS": "{^for CMO attention}",
 "TKPW-GT": "GGT",
 "H*B": "Hb",
 "H*B/H*B": "hemoglobin",
