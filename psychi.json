@@ -1647,8 +1647,13 @@
 "PHR*G": "microgram",
 "PHR-G": "{^µg}",
 "PH-G": "{^mg}",
+"PHR-GD": "{^µg/day}",
 "PHR-G/TKA*EU": "{^µg/day}",
+"PH-GD": "{^mg/day}",
 "PH-G/TKA*EU": "{^mg/day}",
+"TKPW*D": "{^g/day}",
+"TKPW*/TKA*EU": "{^g/day}",
+
 
 "KR-FRPBS": "countertransference",
 "KR-FRPBS/KWRAL": "countertransferential",
