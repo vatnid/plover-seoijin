@@ -43,6 +43,8 @@
 "SR-RS": "{#shift(return)}{^}{-|}",
 "R-RPL": "{^~|\n^}-",
 "R-RPLS": "{^~|\n^}-{-|}",
+"R-RLT": "{#alt(return)}{^}",
+"R-RLTS": "{#alt(return)}{^}{-|}",
 "STP-": "{#tab}",
 "SKW-": "{#escape}",
 
