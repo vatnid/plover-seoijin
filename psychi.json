@@ -952,6 +952,7 @@
 "R*EPBT/TRAOEPB": "resident trainee",
 "PHRO*": "RMO",
 
+"KPHARPBG": "case manager",
 "KHROLG": "clinical psychology",
 "KHROLGS": "clinical psychologist",
 "KHRO*LGS": "clinical psychologist",
@@ -1546,6 +1547,8 @@
 "AT/SRAPB/SRAPB": "lorazepam",
 "AT/SRAPB": "Ativan",
 "AEUT/SRAPB": "Ativan",
+"TE/PHAZ/PAPL": "temazepam",
+"TEPL/SPA*PL": "temazepam",
 
 "TKAEURD/REBGS": "daridorexant",
 "TKAR/TKOE/REBGS": "daridorexant",
@@ -1695,6 +1698,8 @@
 "AS/TAOEUL/SEUS/TAOEPB": "acetylcysteine",
 "TPHRAOUPL/SEUL/SEUL": "acetylcysteine",
 "TPHRAOUPL/SEUL": "Fluimucil",
+"APL/PWROBGS/OL": "ambroxol",
+"APL/PWROBGS/O*L": "ambroxol",
 "A/PHOEPB/KWRA/SKP/EUP": "ammonia and ipecacuanha",
 "A/PHOBGS/SEUL/*EUPB": "amoxicillin",
 "A/PHOBGS/KHRAF": "amoxicillin-clavulanate",
@@ -1736,6 +1741,7 @@
 "KALS/KHAOU/KHAOU/KHAOU/KHAOU": "calcium carbonate + vitamin D chewable tablet 1000mg ca + 800 iu",
 "KALS/KHAO*U": "calcium carbonate + vitamin D chewable tablet",
 "KALS/KHAO*U/KHAO*U": "calcium carbonate + vitamin D chewable tablet 1000mg ca + 800 iu",
+"KARB/TPHOBGS/PHEUPB": "carbinoxamine",
 "KAR/SRED/HROL": "carvedilol",
 "KAR/SRAOED/HROL": "carvedilol",
 "KREF/PEUPL": "cefepime",
