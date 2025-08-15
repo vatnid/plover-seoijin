@@ -423,6 +423,7 @@
 "TK*/TK*BGS":"ddx",
 "EUBGS": "investigation",
 "*EUBGS": "{^ix}",
+"EUPB/SROL": "involuntary",
 "PH-GT": "management",
 "PHEL": "medical",
 "PH*S": "mental state",
