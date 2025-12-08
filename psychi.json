@@ -424,6 +424,7 @@
 "TK-GS/KRAOEURT": "diagnostic criteria",
 "TK-BGS/KRAOEURT": "diagnostic criteria",
 "TK-FP": "discharge",
+"TK*FP": "d/c",
 "TK*BGS": "dx",
 "TK*/TK*BGS":"ddx",
 "EUBGS": "investigation",
