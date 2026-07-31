@@ -999,6 +999,8 @@
 "HRAP/ROT/PHEU": "laparotomy",
 "HROFBG": "LoC",
 "HRO*FBG": "loss of consciousness",
+"PHEPB/KWRER": "Ménière",
+"PHEPB/KWRERS": "Ménière's",
 "PHE/TPHEUPBGS": "meninges",
 "PHEPB/EUPBGS": "meninges",
 "PHEPB/SKWROE/PHA": "meningioma",
